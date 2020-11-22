@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Need a JavaScript Developer? Ask me ;) 
 
 - 😄 My name is Denis. I am a Head Chef of High Voltage Laboratory and Insulators but I want to be a web-developer. 
 - ⚡ I have good theoretical knowledge of Javascript and Vue.js
